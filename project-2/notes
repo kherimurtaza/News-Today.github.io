@@ -1,0 +1,5 @@
+1 - create react app by npx create-react-app newsapp
+
+2- remove function from app.js
+
+3- write rcc for class based  component
